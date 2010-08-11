@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epp xmlns="urn:ietf:params:xml:ns:epp-1.0"><response><result code="2400"><msg lang="en">Command failed</msg><extValue><value>Unknown</value><reason lang="en">/usr/lib/perl5/Moose/Meta/Attribute.pm</reason></extValue></result><trID><svTRID>sep.4c623023.1ad1.002</svTRID></trID></response></epp>
